@@ -1,4 +1,4 @@
-from ultils import add, sub, mul
+from utils import add, sub, mul
 a = int(input("insert a: "))
 b = int(input("insert b: "))
 str = input("insert str:")
